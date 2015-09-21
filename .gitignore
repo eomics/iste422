@@ -1,4 +1,10 @@
+target/
+dependency-reduced-pom.xml
+
 *.class
+bin/
+.factorypath
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
